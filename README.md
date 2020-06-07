@@ -10,3 +10,8 @@ References:
 
 - [HAPI Portal](https://hapifhir.github.io/hapi-hl7v2/conformance.html)
 - [Github - Sravanan Subramanian](https://github.com/SaravananSubramanian)
+
+## HAPI API Reference
+- It can be downloaded from the [Source Forge Net Portal](https://sourceforge.net/projects/hl7api/files/hl7api/). Be sure to select the latest version of the API.
+
+- For more information about the HAPI API on how to get started, visit the [Getting Started Page](https://hapifhir.github.io/hapi-hl7v2/getting_started.html)
