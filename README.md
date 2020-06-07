@@ -14,4 +14,4 @@ References:
 ## HAPI API Reference
 - It can be downloaded from the [Source Forge Net Portal](https://sourceforge.net/projects/hl7api/files/hl7api/). Be sure to select the latest version of the API.
 
-- For more information about the HAPI API on how to get started, visit the [Getting Started Page](https://hapifhir.github.io/hapi-hl7v2/getting_started.html)
+- For more information about the HAPI API, and how to get started with it, visit the [Getting Started Page](https://hapifhir.github.io/hapi-hl7v2/getting_started.html)
