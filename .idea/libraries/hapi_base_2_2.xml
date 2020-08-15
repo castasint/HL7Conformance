@@ -21,6 +21,7 @@
     <SOURCES>
       <root url="jar://$USER_HOME$/.ideaLibSources/hapi-base-2.2-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../software/hapi-dist-2.2-all/lib/hapi-base-2.2.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/hapi-structures-v251-2.2-sources.jar!/" />
     </SOURCES>
     <jarDirectory url="file://$PROJECT_DIR$/../../../software/hapi-dist-2.2-all/lib" recursive="false" />
   </library>
